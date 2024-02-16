@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dart**
 
-- 💬 Ask me about **Android $ Ios**
+- 💬 Ask me about **Android & Ios**
 
 - 📫 How to reach me **tahaahmad837@gmail.com**
 
